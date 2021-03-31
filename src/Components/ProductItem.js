@@ -14,7 +14,7 @@ function ProductItem() {
       <div>
         <div className="link">
           <h4>{shoe["name"]}</h4>
-          <img src={shoe["img"]} height={500}></img>
+          <img src={shoe["img"]} height={500} alt="shoe"></img>
         </div>
         <h3>Welcome to Product Item</h3>
       </div>

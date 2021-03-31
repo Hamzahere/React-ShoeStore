@@ -17,3 +17,8 @@ body {
   box-shadow: 0px 0px 10px #d3bebe;
   background-color: lightgray;
 }
+
+.linkNames {
+  margin-right: 10px;
+  color: #efefef;
+}
